@@ -22,8 +22,8 @@ Open your api environment and verify the micserah-restapi is working by accessin
 
 Available endpoints are:  
 `http://localhost:3000/`   
-`http://localhost:3000/register/`
-`http://localhost:3000/post/2/`
-`http://localhost:3000/posts/`  
-`http://localhost:3000/posts/2/`
-`http://localhost:3000/profile/bret/`
+`http://localhost:3000/register`
+`http://localhost:3000/post/2`
+`http://localhost:3000/posts`  
+`http://localhost:3000/posts/2`
+`http://localhost:3000/profile/bret`
