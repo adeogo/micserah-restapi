@@ -33,10 +33,10 @@ Available endpoints are:
 
 
 To fetch all users
-`http://localhost:3000`
+`/`
 
 To register a new user
-`http://localhost:3000/register`
+`/register`
 
 ``` 
 {
@@ -51,3 +51,20 @@ To register a new user
   
 }
 ```
+
+To add a post to a feed
+`post/feed_id`
+
+```
+{
+    "username": "adeogo",
+    "post": "This is a post"
+}
+```
+
+To fetch all feeds and their posts
+`/posts`
+
+To fetch a particular feed and its posts
+`posts/feed_id`
+
