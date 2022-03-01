@@ -68,3 +68,5 @@ To fetch all feeds and their posts
 To fetch a particular feed and its posts
 `posts/feed_id`
 
+To fetch profile
+`/profile/username`
