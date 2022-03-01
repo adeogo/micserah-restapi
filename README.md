@@ -6,7 +6,7 @@ A NodeJS RestAPI
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. All routes are of the POST request type.
 
 
-`## Clone the repository, install node packages  and verify routes locally
+## Clone the repository, install node packages  and verify routes locally
 
 ``` 
 git clone https://github.com/adeogo/micserah-restapi
