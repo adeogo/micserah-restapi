@@ -1,0 +1,28 @@
+{
+  "name": "micserah-restapi",
+  "version": "1.0.0",
+  "description": "A NodeJS RestAPI",
+  "main": "user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeogo/micserah-restapi.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api"
+  ],
+  "author": "Adeogo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeogo/micserah-restapi/issues"
+  },
+  "homepage": "https://github.com/adeogo/micserah-restapi#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
