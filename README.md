@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 git clone https://github.com/adeogo/micserah-restapi
 cd micserah-restapi
 npm install
-node user.js
+npm start
 ```
 
 Open your api environment and verify the micserah-restapi is working by accessing:     
